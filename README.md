@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Overview
+
+This project is a Travel and Tour Website built with React.js. The website allows users to explore various travel destinations, read travel blogs and enjoy a seamless browsing experience. It features a modern and responsive design, ensuring a seamless user experience across different devices.
+
+## Features
+
+1. Browse Destinations: Users can explore various travel destinations with detailed information about each place.
+2. Responsive Design: The website is fully responsive, ensuring it works well on both mobile and desktop devices.
+3. Travel Blogs: Users can read travel blogs for inspiration and tips.
+4. Search Functionality: Users can search for specific destinations or blogs using the search bar.
+5. Interactive UI: Engaging and interactive user interface built with modern React components.
+6. Image Galleries: Beautiful image galleries showcasing travel destinations.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +81,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Contact
+
+For any questions or feedback, please reach out to:
+
+Name: Rohit kumar Sharma
+Email: rsharma8072002@gmail.com
+GitHub: Rohit80702
+Thank you for using the Travel and Tour Website! We hope you have a great experience.
+
+
+
+
+
+
+
+
