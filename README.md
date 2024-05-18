@@ -9,11 +9,14 @@ This project is a Travel and Tour Website built with React.js. The website allow
 ## Features
 
 **1. Browse Destinations:** Users can explore various travel destinations with detailed information about each place.
+
 **2. Responsive Design:** The website is fully responsive, ensuring it works well on both mobile and desktop devices.
-**3. Travel Blogs:** Users can read travel blogs for inspiration and tips.
-**4. Search Functionality:** Users can search for specific destinations or blogs using the search bar.
-**5. Interactive UI:** Engaging and interactive user interface built with modern React components.
-**6. Image Galleries:** Beautiful image galleries showcasing travel destinations.
+
+**3. Search Functionality:** Users can search for specific destinations or blogs using the search bar.
+
+**4. Interactive UI:** Engaging and interactive user interface built with modern React components.
+
+**5. Image Galleries:** Beautiful image galleries showcasing travel destinations.
 
 ## Available Scripts
 
@@ -86,10 +89,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 For any questions or feedback, please reach out to:
 
-Name: Rohit kumar Sharma
-Email: rsharma8072002@gmail.com
-GitHub: Rohit80702
-Thank you for using the Travel and Tour Website! We hope you have a great experience.
+**Name:** Rohit kumar Sharma.
+
+**Email:** rsharma8072002@gmail.com.
+
+**GitHub:** Rohit80702.
+
+**Thank you for using the Travel and Tour Website! We hope you have a great experience.**
 
 
 
