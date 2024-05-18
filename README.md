@@ -8,12 +8,12 @@ This project is a Travel and Tour Website built with React.js. The website allow
 
 ## Features
 
-1. Browse Destinations: Users can explore various travel destinations with detailed information about each place.
-2. Responsive Design: The website is fully responsive, ensuring it works well on both mobile and desktop devices.
-3. Travel Blogs: Users can read travel blogs for inspiration and tips.
-4. Search Functionality: Users can search for specific destinations or blogs using the search bar.
-5. Interactive UI: Engaging and interactive user interface built with modern React components.
-6. Image Galleries: Beautiful image galleries showcasing travel destinations.
+**1. Browse Destinations:** Users can explore various travel destinations with detailed information about each place.
+**2. Responsive Design:** The website is fully responsive, ensuring it works well on both mobile and desktop devices.
+**3. Travel Blogs:** Users can read travel blogs for inspiration and tips.
+**4. Search Functionality:** Users can search for specific destinations or blogs using the search bar.
+**5. Interactive UI:** Engaging and interactive user interface built with modern React components.
+**6. Image Galleries:** Beautiful image galleries showcasing travel destinations.
 
 ## Available Scripts
 
